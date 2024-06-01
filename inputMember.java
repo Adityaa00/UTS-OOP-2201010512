@@ -6,7 +6,7 @@ package gymmember1;
 
 /**
  *
- * @author Aditya
+ * @author Aditya - 2201010512
  */
 public class inputMember {
     
