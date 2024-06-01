@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Aditya
+ * @author Aditya - 2201010512
  */
 public class GymMember1 {
 
