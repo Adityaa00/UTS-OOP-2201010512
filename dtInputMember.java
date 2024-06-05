@@ -1,5 +1,9 @@
 
 package gymmember1;
+/**
+ *
+ * @author Aditya - 2201010512
+ */
 
 import java.util.Scanner;
 
