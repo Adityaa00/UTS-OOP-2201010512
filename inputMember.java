@@ -15,7 +15,7 @@ public class inputMember {
     dtInputMember DA = new dtInputMember(10);
        String ul ="ulang";
        do{
-            System.out.println("Aplikasi InStock (Input Data)");
+            System.out.println("Aplikasi GYM Memeber (Input Data)");
             System.out.println("~~~~~~~~~~~~~~~~~~~~");
             System.out.println("A. Lihat Data Member");
             System.out.println("B. Tambah Data Member");
